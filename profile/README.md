@@ -19,7 +19,7 @@ At Reflective, we believe that decisions shoud not be made in the dark and that 
 
 ***
 
-### SAI Simulator Releated Repos
+### SAI Simulator Related Repos
 - [sai-simulator](https://github.com/reflective-org/sai-simulator) is a tool to explore the effects of stratospheric aerosol injection on the climate.
 
 ***
